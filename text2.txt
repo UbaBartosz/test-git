@@ -1,0 +1,5 @@
+commit 2
+
+change commit_6 master
+
+stash 2
